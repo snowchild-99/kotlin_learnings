@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/MultipleArgswithvarargs/MultipleArgswithvarargs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/constructor/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/constructor1/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/constructor/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/constructor1/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionWithArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinFunction.functionWithArgument.FunctionWithArgumentKt" />
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinClass.constructor2.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinClass.constructor.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="KotlinClass.constructor1.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,10 +91,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.BasicClassKt" />
         <item itemvalue="Kotlin.FunctionOverloadKt" />
         <item itemvalue="Kotlin.MultipleArgswithvarargsKt" />
-        <item itemvalue="Kotlin.FunctionWithArgumentKt" />
       </list>
     </recent_temporary>
   </component>
