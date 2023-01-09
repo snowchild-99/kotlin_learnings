@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/FunctionInsideFunction/anotherExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/FunctionInsideFunction/functionInsideFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/KotlinFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/ReturnTypes/functionReturnType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/SingleLineFunctionExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction/MultipleArgswithvarargs/MultipleArgswithvarargs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +18,8 @@
       <list>
         <option value="Kotlin Worksheet" />
         <option value="package-info" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -64,23 +51,16 @@
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionWithArgumentKt">
-    <configuration name="AnotherExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinFunction.FunctionInsideFunction.AnotherExampleKt" />
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="BasicClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinClass.BasicClassKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionInsideFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinFunction.FunctionInsideFunction.FunctionInsideFunctionKt" />
-      <module name="KotlinLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionReturnTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinFunction.ReturnTypes.FunctionReturnTypeKt" />
+    <configuration name="FunctionOverloadKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinFunction.functionOverloading.FunctionOverloadKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,8 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLineFunctionExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinFunction.SingleLineFunctionExpressionKt" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinClass.constructor.MainKt" />
+      <module name="KotlinLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleArgswithvarargsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinFunction.MultipleArgswithvarargs.MultipleArgswithvarargsKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.BasicClassKt" />
+        <item itemvalue="Kotlin.FunctionOverloadKt" />
+        <item itemvalue="Kotlin.MultipleArgswithvarargsKt" />
         <item itemvalue="Kotlin.FunctionWithArgumentKt" />
-        <item itemvalue="Kotlin.SingleLineFunctionExpressionKt" />
-        <item itemvalue="Kotlin.AnotherExampleKt" />
-        <item itemvalue="Kotlin.FunctionInsideFunctionKt" />
-        <item itemvalue="Kotlin.FunctionReturnTypeKt" />
       </list>
     </recent_temporary>
   </component>
