@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="constructorWithInit">
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassWithFunction/FunctionClass/FunctionClass.kt" afterDir="false" />
+    <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="ClassWithFunction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/basicClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/basicClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/constructorWithInit/DemoClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/constructorWithInit/DemoClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassWithFunction/FunctionClass/FunctionClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassWithFunction/FunctionClass/FunctionClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
       <list>
         <option value="Kotlin Worksheet" />
         <option value="package-info" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -54,11 +51,12 @@
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassWithFunction/FunctionClass" />
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction" />
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassWithFunctionKt">
+  <component name="RunManager" selected="Kotlin.ExampleKt">
     <configuration name="BasicClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KotlinClass.BasicClassKt" />
       <module name="KotlinLearning" />
@@ -80,6 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanionObject.ExampleKt" />
+      <module name="KotlinLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KotlinClass.constructorWithInit.MainKt" />
       <module name="KotlinLearning" />
@@ -87,20 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinClass.constructor1.MainKt" />
-      <module name="KotlinLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExampleKt" />
         <item itemvalue="Kotlin.ClassWithFunctionKt" />
         <item itemvalue="Kotlin.ClassPropertiesKt" />
         <item itemvalue="Kotlin.BasicClassKt" />
         <item itemvalue="Kotlin.MainKt (2)" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673269297866</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ClassWithFunction">
+      <created>1673351611111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673351611111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default constructor added" />
     <MESSAGE value="constructorWithInit" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructorWithInit" />
+    <MESSAGE value="ClassWithFunction" />
+    <option name="LAST_COMMIT_MESSAGE" value="ClassWithFunction" />
   </component>
 </project>
