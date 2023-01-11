@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="added Companion demo, class with function">
+    <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="ConstantsInKotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/CompanionObject/example2/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/CompanionObject/example2/main.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ConstantsInKotlin/Constant.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ConstantsInKotlin/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ConstantsInKotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinSingleInstance/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassProperties/ClassProperties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassProperties/ClassProperties.kt" afterDir="false" />
     </list>
@@ -155,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673352491563</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ConstantsInKotlin">
+      <created>1673419564241</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673419564242</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +186,7 @@
     <MESSAGE value="constructorWithInit" />
     <MESSAGE value="ClassWithFunction" />
     <MESSAGE value="added Companion demo, class with function" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Companion demo, class with function" />
+    <MESSAGE value="ConstantsInKotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConstantsInKotlin" />
   </component>
 </project>
