@@ -25,7 +25,7 @@ fun another(){
 
 
 }
-fun main(args: Array<String>) {
+fun main() {
     //var whose value can be change
     another()
 

@@ -1,0 +1,6 @@
+package AbstractInKotlin
+
+fun main() {
+
+
+}

@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="ConstantsInKotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/CompanionObject/example2/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/CompanionObject/example2/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ConstantsInKotlin/Constant.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ConstantsInKotlin/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ConstantsInKotlin/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinSingleInstance/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassProperties/ClassProperties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/ClassProperties/ClassProperties.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +20,9 @@
         <option value="Kotlin Worksheet" />
         <option value="package-info" />
         <option value="Class" />
-        <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -63,37 +58,37 @@
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (2)">
-    <configuration name="ClassWithFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinClass.ClassWithFunction.FunctionClass.ClassWithFunctionKt" />
+  <component name="RunManager" selected="Kotlin.WhenAsExpressionKt">
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinLateInt.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompanionObject.ExampleKt" />
+    <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NestedClassesInKotlin.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KotlinSingleInstance.MainKt" />
+    <configuration name="MainKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenStatement.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstantsInKotlin.MainKt" />
+    <configuration name="WhenAsExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenStatement.WhenAsExpressionKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompanionObject.example2.MainKt" />
+    <configuration name="WithoutelseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenStatement.WithoutelseKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (2)" />
-        <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.ExampleKt" />
-        <item itemvalue="Kotlin.ClassWithFunctionKt" />
+        <item itemvalue="Kotlin.WhenAsExpressionKt" />
+        <item itemvalue="Kotlin.WithoutelseKt" />
+        <item itemvalue="Kotlin.MainKt (5)" />
+        <item itemvalue="Kotlin.MainKt (4)" />
+        <item itemvalue="Kotlin.MainKt (3)" />
       </list>
     </recent_temporary>
   </component>
