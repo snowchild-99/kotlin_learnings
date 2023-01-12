@@ -6,7 +6,6 @@ internal class  Demo {
     private lateinit var name : String
 }
 
-
 fun main() {
 
 }

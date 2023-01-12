@@ -4,9 +4,10 @@ package AccessModifier
 //private defined class, method, variable can only be accessible With in the file
 private class PrivateClass {
     // int is private
-     var int =0
+   private var int =0
 
-    fun display(){
+   fun display(){
+       int=45
         println(int)
     }
 }
@@ -14,7 +15,6 @@ fun main() {
 
     var privateClass = PrivateClass()
     //here by using instance of privateClass we can only access display method not the int variable
-    privateClass.int=23
     privateClass.display()
 
     var a = A()
