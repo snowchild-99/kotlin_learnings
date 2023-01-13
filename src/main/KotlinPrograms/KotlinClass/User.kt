@@ -1,11 +1,12 @@
 package KotlinClass
 
-class User( name :String,
-            age: Int ) {
+class User( var name :String) {
 
     init {
-        println("Inside Init block")
+        println("Init block $name")
     }
-    var bio ="$name $age"
 
+   override fun toString(): String{
+       return name
+   }
 }
