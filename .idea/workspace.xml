@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4723cc75-43de-45ed-8128-cd633f4824e0" name="Changes" comment="DataClassKotlin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/basicClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinClass/basicClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/FilterList/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/FilterList/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/ImmutableList/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/ImmutableList/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/KotlinPrograms/WhenStatement/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KotlinPrograms/WhenStatement/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,38 +60,41 @@
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/KotlinFunction" />
       <recent name="$PROJECT_DIR$/src/main/KotlinPrograms/BasicVariable" />
     </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="KotlinLazy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (3)">
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableList.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="WhenStatement.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceKotlin.AnonymousInterface.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="FilterList.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mutableList.MainKt" />
+    <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinLazy.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayInKotlin.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="PairClass.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="TripleClass.MainKt" />
       <module name="KotlinLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (3)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
         <item itemvalue="Kotlin.MainKt (2)" />
+        <item itemvalue="Kotlin.MainKt (4)" />
       </list>
     </recent_temporary>
   </component>

@@ -3,7 +3,7 @@ package WhenStatement
 
 //in Kotlin "when" statement is similar to Switch in Java
 fun main() {
-    var user = User("Mandeep")
+    var user = User("Sandeep")
 
     //checks the condition
     when(user.fname) {
